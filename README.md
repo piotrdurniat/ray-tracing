@@ -4,6 +4,8 @@ Implementation of the Ray Tracing algorithm written in Python.
 
 - Source code and generated images are in the [ray-tracing.ipynb](./ray-tracing.ipynb) file.
 
+![](./images/ray_tracing_transparency_refraction.png)
+
 ## Venv in Jupyter Notebook 
 
 ### Add your virtual environment to Jupyter:
